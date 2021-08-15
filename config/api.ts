@@ -1,3 +1,3 @@
 export default {
-    "API_URL": "http://localhost:5000/api/v1"
+    "API_URL": "https://ephemral.herokuapp.com/api/v1"
 }
